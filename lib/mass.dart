@@ -61,7 +61,7 @@ class MassConvertor extends State<Mass> {
         child: new ListView(
           padding: EdgeInsets.all(10.0),
           children: <Widget>[
-            new Image.asset('images/planet.png',
+            new Image.asset('images/app2.png',
             height: 120,),
             new Container(
               margin: EdgeInsets.all(3.0),
